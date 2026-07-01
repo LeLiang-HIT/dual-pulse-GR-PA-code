@@ -1,0 +1,18 @@
+# File manifest
+
+.gitignore	229 bytes	sha256:819241b26ad81f30
+Code_Availability_Statement.txt	550 bytes	sha256:548cc45a1e6b5f92
+Fig2_Fig4_parameter_analysis/Best_Impulse_Response_Avg.mat	1142 bytes	sha256:774945aecae925c0
+Fig2_Fig4_parameter_analysis/main_generate_manuscript_Fig2_Fig4.m	92503 bytes	sha256:569f46f227608401
+Fig2_Fig4_parameter_analysis/outputs/.gitkeep	0 bytes	sha256:e3b0c44298fc1c14
+Fig2_Fig4_parameter_analysis/run_all_figures.m	171 bytes	sha256:9cf58dd3a018e77b
+Fig5_GRPAM_resolution/GR_PAM_resolution_v8.m	22350 bytes	sha256:dae86580f3c75769
+Fig5_GRPAM_resolution/outputs/.gitkeep	0 bytes	sha256:e3b0c44298fc1c14
+Fig5_PAWS/outputs/.gitkeep	0 bytes	sha256:e3b0c44298fc1c14
+Fig5_PAWS/run_PAWS_dV_noisy.m	32553 bytes	sha256:2489ebe38f64f09b
+Fig6_compensation/outputs/.gitkeep	0 bytes	sha256:e3b0c44298fc1c14
+Fig6_compensation/run_Fig6_CW_preheating.m	9999 bytes	sha256:74c4b2da171a128e
+Fig6_compensation/run_Fig6_multi_pulse_heat_accumulation.m	11158 bytes	sha256:f17fc9b3c4e2a190
+LICENSE	1048 bytes	sha256:1796e5edefc64ce4
+README.md	3839 bytes	sha256:d4e8a4ba00b26453
+outputs/.gitkeep	0 bytes	sha256:e3b0c44298fc1c14

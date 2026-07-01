@@ -1,0 +1,22 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.mlx~
+
+# Generated outputs
+outputs/*
+*/outputs/*
+!outputs/.gitkeep
+!*/outputs/.gitkeep
+
+# Generated figures and media
+*.fig
+*.png
+*.pdf
+*.avi
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

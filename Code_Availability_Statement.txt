@@ -1,0 +1,3 @@
+The custom MATLAB code used to support the main simulation and figure-generation results of this study is available in this repository. The code includes source-term parameter analysis, PAWS validation, GR-PAM resolution validation, Bessel sidelobe-suppression validation, and weak-nonlinearity compensation simulations.
+
+The code is released under the MIT License. The empirical impulse response file Best_Impulse_Response_Avg.mat is included for the parameter-analysis script. A DOI-linked archived version will be provided via Zenodo if required.
