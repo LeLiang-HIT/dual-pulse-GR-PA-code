@@ -27,7 +27,7 @@ dual-pulse-GR-PA-code/
 │   └─ outputs/
 │
 ├─ Fig5_GRPAM_resolution/
-│   ├─ GR_PAM_resolution_v8.m
+│   ├─ run_GRPAM_resolution_Bessel_validation.m
 │   └─ outputs/
 │
 ├─ Fig6_compensation/
@@ -59,7 +59,7 @@ The simulation compares representative operating regimes, including global best,
 
 ### Fig5_GRPAM_resolution
 
-`GR_PAM_resolution_v8.m` supports the GR-PAM resolution-validation analysis, including lateral PSF narrowing, axial optical sectioning, noise-limited effective resolution, and Bessel sidelobe-suppression validation.
+`run_GRPAM_resolution_Bessel_validation.m` supports the GR-PAM resolution-validation analysis, including lateral PSF narrowing, axial optical sectioning, noise-limited effective resolution, and Bessel sidelobe-suppression validation.
 
 ### Fig6_compensation
 
@@ -104,7 +104,7 @@ For GR-PAM resolution validation:
 
 ```matlab
 cd Fig5_GRPAM_resolution
-GR_PAM_resolution_v8
+run_GRPAM_resolution_Bessel_validation
 ```
 
 For weak-nonlinearity compensation:
